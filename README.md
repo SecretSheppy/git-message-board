@@ -1,2 +1,2 @@
 # git-message-board
-A message board/Calender/Development Planner/Team forum that runs inside of a repository
+A message board/Calendar/Development Planner/Team forum that runs inside a repository
